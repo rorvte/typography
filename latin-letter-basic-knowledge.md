@@ -15,7 +15,8 @@ Latin Letter Typography Basic Knowledge
 * 罗马体（roman）
 
 	罗马体是指笔画末端带有**衬线**，且如平头笔书写般，有粗细笔画的一类字体的总称。一般来说，罗马体的衬线突出了字母的造型，更易于阅读，适合排编书籍等长篇文章。另外，roman还有另外一个意思，即**「罗马正体」**，是指区别于「意大利斜体」的垂直正立的字体。
-![](Slice 1.png)
+	
+![](images/roman.jpg)
 
 * 无衬线体（sanserif）
 
@@ -48,10 +49,12 @@ Latin Letter Typography Basic Knowledge
 
 	大致与小写字母x字高相当的大写字母。为了与普通的大写字母的笔画和粗细匹配，small caps稍微粗、宽一些，并不是单纯地将大写字母缩小而成。
 	![](images/ePUBF.png)
+	
 * 等高数字和老式数字（lining figure and old figure）
 
 	上下对齐的数字叫**等高数字**，上下参差错开常用于书记排版等正文使用的是**老式数字**。一般来说，等高数字的字宽也是相同的。
 	![](images/liningVSOldStyle1.gif)
+	
 * 点、派卡（point and pica）
 
 	1 point ≈ 0.3528 mm是1/72 inch，用来度量字号、行距的单位。1 pica = 12 point，用来指定行长、印刷位置等。
@@ -59,9 +62,11 @@ Latin Letter Typography Basic Knowledge
 * 字号（font size）
 
 	![](images/font-size.png)
-	升部线与将部线之间的距离。
+	
+	升部线与降部线之间的距离。
 	
 * em & en
 
 	![](images/em-en.jpg)￼
+	
 	金属活字里大写字母「M」的上下左右长度几乎一样，概念上把「全角」称为em，其一半（n的宽度）即「半角」称为en。如果使用的字号是8 point，则高与宽都为8 point即为1 em，高8 point宽4 point就是1 en。
