@@ -9,6 +9,9 @@ Latin Letter Typography Basic Knowledge
 	字体里**大小写字母、数字、标点符号和声调符号等**一整套的总称。不被印出来的空格也是font的一部分。构成font的要素称为「字形」（glyph）。如果在Illustrator、Indesign里点选「字形」，就可以看到一款字体里所配备的所有字形。
 
 * 各部位的名称：
+
+	mean line和base line是小写字母x上下部划过的线。
+	
 	![typography_anatomy](images/typography_anatomy.jpg)
 ￼￼	![typography_anatomy2](images/typography_anatomy2.jpg)
 
@@ -16,7 +19,7 @@ Latin Letter Typography Basic Knowledge
 
 	罗马体是指笔画末端带有**衬线**，且如平头笔书写般，有粗细笔画的一类字体的总称。一般来说，罗马体的衬线突出了字母的造型，更易于阅读，适合排编书籍等长篇文章。另外，roman还有另外一个意思，即**「罗马正体」**，是指区别于「意大利斜体」的垂直正立的字体。
 	
-![](images/roman.jpg)
+	![](images/roman.jpg)
 
 * 无衬线体（sanserif）
 
@@ -52,7 +55,8 @@ Latin Letter Typography Basic Knowledge
 	
 * 等高数字和老式数字（lining figure and old figure）
 
-	上下对齐的数字叫**等高数字**，上下参差错开常用于书记排版等正文使用的是**老式数字**。一般来说，等高数字的字宽也是相同的。
+	上下对齐的数字叫**等高数字**，上下参差错开常用于书籍排版等正文使用的是**老式数字**。一般来说，等高数字的字宽也是相同的。
+	
 	![](images/liningVSOldStyle1.gif)
 	
 * 点、派卡（point and pica）
